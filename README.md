@@ -59,9 +59,6 @@ R 프로그래밍 언어를 활용한 데이터 분석, 시각화, 통계 모델
   - `library(datasets)`와 `data(airquality)` 명령어를 사용해 데이터 로드
   - R 기본 플롯과 ggplot2를 활용하여 다음 그래프 생성:
     1. 월별 오존 농도의 상자 그림(Boxplot)
-       
-![image](https://github.com/user-attachments/assets/519ec787-8006-418a-bb2c-07eab50eb476)
-
     2. 온도와 오존 간의 관계를 나타내는 산점도(Scatterplot)
     
 ![image](https://github.com/user-attachments/assets/f1a27155-6efd-4d20-8cc1-9d00144c9e0a)
