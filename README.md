@@ -140,6 +140,7 @@ R 프로그래밍 언어를 활용한 데이터 분석, 시각화, 통계 모델
 ![image](https://github.com/user-attachments/assets/3433f18f-0940-45ef-9361-b586a9498092)
 
 대통령 연설문 treeMap 생성
+
 ![image](https://github.com/user-attachments/assets/50779f21-89d2-49ab-a777-8921a161ef32)
 
 대통령 연설문을 word cloud로 비교
