@@ -144,6 +144,7 @@ R 프로그래밍 언어를 활용한 데이터 분석, 시각화, 통계 모델
 ![image](https://github.com/user-attachments/assets/50779f21-89d2-49ab-a777-8921a161ef32)
 
 대통령 연설문을 word cloud로 비교
+
 ![image](https://github.com/user-attachments/assets/7098676e-ce50-4602-ada3-26f07e6081fe)
 
 대통령이 사용한 공통단어 피라미드 그래프를 생성
